@@ -1,5 +1,6 @@
 ## 本项目为Cnblogs.DashScope.Sdk针对Microsoft.Extesions.AI的扩展
 项目中需要安装Cnblogs.DashScope.Sdk
+本包和Cnblogs.DashScope.AI互斥,不要同时安装
 ## 用法
 - 安装本包
 - 创建消息

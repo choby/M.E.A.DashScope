@@ -2,8 +2,14 @@
 项目中需要安装Cnblogs.DashScope.Sdk
 本包和Cnblogs.DashScope.AI互斥,不要同时安装
 ## 用法
+- 安装Cnblogs.DashScope.Sdk
+```
+dotnet add package Cnblogs.DashScope.Sdk --version 1.0.0-pre2
+```
 - 安装本包
-`dotnet add package M.E.A.DashScope --version 1.0.0`
+```
+dotnet add package M.E.A.DashScope --version 1.0.0
+```
 - 创建消息
 ```csharp
         var messages = new List<ChatMessage>
